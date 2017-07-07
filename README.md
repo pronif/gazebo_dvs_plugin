@@ -11,7 +11,7 @@ I made some improvements (or at least think so):
 - linear interpolation of the time so the events are not simply at the time of the last frame
 - possibility to save the events in a csv file
 
-Add this two sdf elements between <plugin> </plugin> to save file
+Add this two sdf elements between plugin /plugin to save file
     <save_csv>true</save_csv>
     <csv_address>/home/.../events.csv</csv_address>
 
