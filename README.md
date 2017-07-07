@@ -17,7 +17,7 @@ Example of sdf for the use of the plugin
     <eventThreshold>0.2</eventThreshold>
     <cameraInfoTopicName>camera_info</cameraInfoTopicName>
     <save_csv>false</save_csv>
-    <csv_address>/home/fede/catkin_ws/src/gazebo_dvs_plugin/src/events.csv</csv_address>
+    <csv_address>/home/.../events.csv</csv_address>
     <!-- <eventsTopicName>events</eventsTopicName> -->
 </plugin>
 
