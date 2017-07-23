@@ -1,4 +1,4 @@
-# DVS Gazebo Plugin
+#  gazebo_dvs_plugin
 This Gazebo plugin simulates a DVS
 
 The code is modified from:
@@ -18,3 +18,9 @@ Add this two sdf elements between plugin /plugin to save file
 PROBLEMS
 Too many cycles
 Dynamic allocation of memory can be improved
+
+BUILD
+catkin build dvs_gazebo_plugin
+
+SEE
+https://github.com/idsc-frazzoli/gazebo_dvs_plugin
